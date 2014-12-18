@@ -1,0 +1,10 @@
+===========================================
+Code Book
+============================================
+
+The data contained in "FinalData.txt" is based on the data found here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+It consists of 180 observations and 67 total variables.
+
+Each observation corresponds to the combination of a single subject and activity from the original data set.
+Each variable corresponds to a variable in the original data set that was a mean or standard deviation.
+The values are the means of each variable for each combination of subject and activity.
